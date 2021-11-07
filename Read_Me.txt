@@ -1,0 +1,3 @@
+*Notice that file db.config in backend part is changed for security reasons.
+
+Project To_Do list,using React-Redux and MySql,Axios...
